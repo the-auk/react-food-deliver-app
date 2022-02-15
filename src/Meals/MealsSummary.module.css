@@ -1,0 +1,18 @@
+.summarybox {
+    text-align: center;
+    max-width: 60rem;
+    width: 90%;
+    margin: auto;
+    position: relative;
+    background-color: #b7adcf;
+    color: black;
+    border-radius: 14px;
+    margin-top: 10rem;
+    padding: 1rem;
+    box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
+  }
+  
+  .summary h2 {
+    font-size: 2rem;
+    margin-top: 0;
+  }
